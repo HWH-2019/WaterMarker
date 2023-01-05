@@ -34,4 +34,5 @@ python watermarker.py --text "WaterMarker" -F "C:\test.pdf" --font "SimSun" --al
 ```
 
 ### 写在最后
-感谢大家使用，若有更好的想法或者任何疑问，欢迎提交 issue 或者 邮件 <huang_wen_huan@163.com> 联系我，我将及时更新和回复
+- 感谢大家使用，若有更好的想法或者任何疑问，欢迎提交 issue 或者 邮件 <huang_wen_huan@163.com> 联系我，我将及时更新和回复
+- 本工具采用 GPL2 开源协议，详细内容参见 [协议](https://github.com/HWH-2019/WaterMarker/blob/main/LICENSE)
